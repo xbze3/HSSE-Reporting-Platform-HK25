@@ -89,9 +89,9 @@ This project was built **collaboratively with a team of developers** during the 
 
 **Team Members:**
 
--   @xbze3
--   @
--   @
+-   [matt0a](https://github.com/matt0a)
+-   [xbze3](https://github.com/xbze3)
+-   [luciuscrust](https://github.com/luciuscrust)
 
 ---
 
