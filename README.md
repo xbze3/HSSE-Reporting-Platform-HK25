@@ -102,5 +102,3 @@ This project was built **collaboratively with a team of developers** during the 
 -   Advanced analytics and reporting dashboards
 -   Role-based access control for organization users
 -   Mobile-first interface for field reporting
-
----
