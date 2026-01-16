@@ -89,7 +89,7 @@ This project was built **collaboratively with a team of developers** during the 
 
 **Team Members:**
 
--   @
+-   @xbze3
 -   @
 -   @
 
